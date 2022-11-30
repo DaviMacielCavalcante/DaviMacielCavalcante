@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor back-end
-- 🌱 Estudando Java,Spring Boot, Python, HTML5, CSS3.
+- 🌱 Estudando Java,Spring Boot, Python.
 - 📫 Contate-me no e-mail: davicc@outlook.com.br
 - 😄 Pronouns: ele/dele
 
