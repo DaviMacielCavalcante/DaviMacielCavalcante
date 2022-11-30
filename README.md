@@ -4,7 +4,6 @@
 - 🔭 Desenvolvedor back-end
 - 🌱 Estudando Java,Spring Boot, Python.
 - 📫 Contate-me no e-mail: davicc@outlook.com.br
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/DaviMacielCavalcante">
