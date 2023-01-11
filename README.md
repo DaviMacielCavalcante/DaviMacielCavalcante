@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor back-end
-- 🌱 Estudando Java,Spring Boot, Python.
+- 🌱 Estudando Java,Spring Boot, Python, JavaScript.
 - 📫 Contate-me no e-mail: davicc@outlook.com.br
 
 <div align="center">
