@@ -1,8 +1,8 @@
 ### Hello there 🖖🏻
 
 
-- 🔭 Desenvolvedor back-end
-- 🌱 Estudando Python e JavaScript.
+- 🔭 Futuro Cientista de Dados
+- 🌱 Estudando Python.
 - 📫 Contate-me no e-mail: davicc@outlook.com.br
 
 <div align="center">
