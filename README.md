@@ -2,7 +2,7 @@
 
 
 - 🔭 Futuro Cientista de Dados
-- 🌱 Estudando Python.
+- 🌱 Estudando Python, Estatística, Cálculo e outras coisas.
 - 📫 Contate-me no e-mail: davicc@outlook.com.br
 
 <div align="center">
