@@ -11,10 +11,10 @@
 </div>
 
 ## Sobre mim:
-- 🔭 Futuro Cientista de Dados.
-- 🌱 Estudando Python, Pandas e outras coisas.
+- 🔭 Futuro Engenheiro de Dados.
+- 🌱 Estudando SQL e outras coisas.
 - 📫 Contate-me no e-mail: davicc@outlook.com.br
-- 
+  
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
