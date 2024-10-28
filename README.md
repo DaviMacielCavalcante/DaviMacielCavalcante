@@ -12,7 +12,6 @@
 
 ## Sobre mim:
 - 🔭 Futuro Engenheiro de Dados.
-- 🌱 Estudando SQL e outras coisas.
 - 📫 Contate-me no e-mail: davicc@outlook.com.br
   
 ### 🌟 Habilidades e Tecnologias
