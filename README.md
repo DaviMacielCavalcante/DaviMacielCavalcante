@@ -35,7 +35,7 @@
 ----
 ### 📚 Atualmente Aprendendo
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DataCAmp](https://img.shields.io/badge/DataCamp-03EF62.svg?style=for-the-badge&logo=DataCamp&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DaviMacielCavalcante&theme=dark&background=000000)](https://git.io/streak-stats)
