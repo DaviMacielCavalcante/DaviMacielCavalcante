@@ -36,6 +36,7 @@ galaxy_arms:
       - "PySpark"
       - "Airflow"
       - "Databricks"
+      - "dbt"
   - name: "Backend"
     color: "synapse_cyan"
     items:
